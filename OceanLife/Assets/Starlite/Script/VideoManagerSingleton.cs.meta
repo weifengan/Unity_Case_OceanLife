@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f122bbde0b82e42179277a4a9a01116d
+timeCreated: 1510250990
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - scrMedia: {instanceID: 0}
+  - videoView: {instanceID: 0}
+  - PlayImage: {instanceID: 0}
+  - slider: {instanceID: 0}
+  - video: {instanceID: 0}
+  - warning: {instanceID: 0}
+  - BtnPause: {instanceID: 0}
+  - SptPlay: {instanceID: 0}
+  - SptPause: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1145 @@
+[
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 1,
+   "strAreaName": "從山到海 - 高山的溪流",
+   "intMajor": 1001,
+   "intMinor": 1,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 1,
+   "strAreaName": "從山到海 - 高山的溪流",
+   "intMajor": 1001,
+   "intMinor": 2,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 1,
+   "strAreaName": "從山到海 - 高山的溪流",
+   "intMajor": 1001,
+   "intMinor": 3,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 1,
+   "strAreaName": "從山到海 - 高山的溪流",
+   "intMajor": 1001,
+   "intMinor": 4,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 2,
+   "strAreaName": "從山到海 - 河流的中游",
+   "intMajor": 1001,
+   "intMinor": 5,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 2,
+   "strAreaName": "從山到海 - 河流的中游",
+   "intMajor": 1001,
+   "intMinor": 6,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 2,
+   "strAreaName": "從山到海 - 河流的中游",
+   "intMajor": 1001,
+   "intMinor": 7,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 3,
+   "strAreaName": "從山到海 - 河邊溪緣",
+   "intMajor": 1001,
+   "intMinor": 8,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 4,
+   "strAreaName": "從山到海 - 水庫",
+   "intMajor": 1001,
+   "intMinor": 9,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 5,
+   "strAreaName": "從山到海 - 流水域魚類的適應",
+   "intMajor": 1001,
+   "intMinor": 10,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 6,
+   "strAreaName": "從山到海 - 靜水域魚類的適應",
+   "intMajor": 1001,
+   "intMinor": 43,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 7,
+   "strAreaName": "河口區 - 河口泥灘",
+   "intMajor": 1001,
+   "intMinor": 11,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 8,
+   "strAreaName": "河口區 - 河口生態環境",
+   "intMajor": 1001,
+   "intMinor": 12,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 9,
+   "strAreaName": "河口區 - 牡蠣養殖",
+   "intMajor": 1001,
+   "intMinor": 13,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 10,
+   "strAreaName": "河口區 - 河口的銀鱗鯧",
+   "intMajor": 1001,
+   "intMinor": 15,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 11,
+   "strAreaName": "河口區 - 河口的四絲馬?",
+   "intMajor": 1001,
+   "intMinor": 14,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 12,
+   "strAreaName": "河口區 - 河口的黃金?",
+   "intMajor": 1001,
+   "intMinor": 44,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 13,
+   "strAreaName": "河口區 - 河口的仙后水母",
+   "intMajor": 1001,
+   "intMinor": 45,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 14,
+   "strAreaName": "河口區 - 河口的細尾雙邊魚",
+   "intMajor": 1001,
+   "intMinor": 46,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 15,
+   "strAreaName": "河口區 - 河口的黑邊?",
+   "intMajor": 1001,
+   "intMinor": 47,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 16,
+   "strAreaName": "潮間帶 - 岩岸潮間帶",
+   "intMajor": 1001,
+   "intMinor": 48,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 16,
+   "strAreaName": "潮間帶 - 岩岸潮間帶",
+   "intMajor": 1001,
+   "intMinor": 16,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 16,
+   "strAreaName": "潮間帶 - 岩岸潮間帶",
+   "intMajor": 1001,
+   "intMinor": 17,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 17,
+   "strAreaName": "潮間帶 - 觸摸池",
+   "intMajor": 1001,
+   "intMinor": 17,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 18,
+   "strAreaName": "潮間帶 - 海膽",
+   "intMajor": 1001,
+   "intMinor": 18,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 19,
+   "strAreaName": "潮間帶 - 海星",
+   "intMajor": 1001,
+   "intMinor": 19,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 20,
+   "strAreaName": "潮間帶 - 海參",
+   "intMajor": 1001,
+   "intMinor": 20,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 21,
+   "strAreaName": "潮間帶 - 清潔蝦",
+   "intMajor": 1001,
+   "intMinor": 21,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 22,
+   "strAreaName": "潮間帶 - 海葵",
+   "intMajor": 1001,
+   "intMinor": 22,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 23,
+   "strAreaName": "珊瑚礁谷",
+   "intMajor": 1001,
+   "intMinor": 26,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 23,
+   "strAreaName": "珊瑚礁谷",
+   "intMajor": 1001,
+   "intMinor": 24,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 23,
+   "strAreaName": "珊瑚礁谷",
+   "intMajor": 1001,
+   "intMinor": 25,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 24,
+   "strAreaName": "亞潮帶 - 軟珊瑚",
+   "intMajor": 1001,
+   "intMinor": 27,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 25,
+   "strAreaName": "亞潮帶 - 狗鮫",
+   "intMajor": 1001,
+   "intMinor": 28,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 26,
+   "strAreaName": "亞潮帶 - 章魚",
+   "intMajor": 1001,
+   "intMinor": 29,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 27,
+   "strAreaName": "亞潮帶 - 龍蝦",
+   "intMajor": 1001,
+   "intMinor": 30,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 28,
+   "strAreaName": "亞潮帶 - 南灣珊瑚礁",
+   "intMajor": 1001,
+   "intMinor": 33,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 28,
+   "strAreaName": "亞潮帶 - 南灣珊瑚礁",
+   "intMajor": 1001,
+   "intMinor": 32,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 28,
+   "strAreaName": "亞潮帶 - 南灣珊瑚礁",
+   "intMajor": 1001,
+   "intMinor": 31,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 29,
+   "strAreaName": "亞潮帶 - 魚類的生存之道",
+   "intMajor": 1001,
+   "intMinor": 34,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 30,
+   "strAreaName": "亞潮帶 - 群游",
+   "intMajor": 1001,
+   "intMinor": 35,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 30,
+   "strAreaName": "亞潮帶 - 群游",
+   "intMajor": 1001,
+   "intMinor": 36,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 31,
+   "strAreaName": "大洋區 - 大西洋海刺水母",
+   "intMajor": 1001,
+   "intMinor": 37,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 32,
+   "strAreaName": "大洋區 - 珍珠水母",
+   "intMajor": 1001,
+   "intMinor": 38,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 33,
+   "strAreaName": "大洋區 - 大洋池",
+   "intMajor": 1001,
+   "intMinor": 39,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 33,
+   "strAreaName": "大洋區 - 大洋池",
+   "intMajor": 1001,
+   "intMinor": 40,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 33,
+   "strAreaName": "大洋區 - 大洋池",
+   "intMajor": 1001,
+   "intMinor": 41,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 33,
+   "strAreaName": "大洋區 - 大洋池",
+   "intMajor": 1003,
+   "intMinor": 4,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 1,
+   "strBuildingName": "台灣水域館",
+   "intAreaId": 34,
+   "strAreaName": "保育水的世界",
+   "intMajor": 1001,
+   "intMinor": 42,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 35,
+   "strAreaName": "珊瑚礁預覽 - 珊瑚礁頂",
+   "intMajor": 1002,
+   "intMinor": 1,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 36,
+   "strAreaName": "珊瑚礁預覽 - 珊瑚礁緣",
+   "intMajor": 1002,
+   "intMinor": 2,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 37,
+   "strAreaName": "珊瑚礁預覽 - 珊瑚礁壁",
+   "intMajor": 1002,
+   "intMinor": 3,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 38,
+   "strAreaName": "珊瑚礁預覽 - 生物的城堡",
+   "intMajor": 1002,
+   "intMinor": 4,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 38,
+   "strAreaName": "珊瑚礁預覽 - 生物的城堡",
+   "intMajor": 1002,
+   "intMinor": 5,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 38,
+   "strAreaName": "珊瑚礁預覽 - 生物的城堡",
+   "intMajor": 1002,
+   "intMinor": 6,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 39,
+   "strAreaName": "珊瑚礁之旅 - 礁頂的生物",
+   "intMajor": 1002,
+   "intMinor": 7,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 40,
+   "strAreaName": "水下工作站",
+   "intMajor": 1002,
+   "intMinor": 8,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 41,
+   "strAreaName": "珊瑚礁之旅 - 礁緣的生物",
+   "intMajor": 1002,
+   "intMinor": 9,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 41,
+   "strAreaName": "珊瑚礁之旅 - 礁緣的生物",
+   "intMajor": 1002,
+   "intMinor": 10,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 42,
+   "strAreaName": "珊瑚礁之旅 - 礁穴的鰻鯰",
+   "intMajor": 1002,
+   "intMinor": 11,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 43,
+   "strAreaName": "珊瑚礁之旅 - 礁穴的糬鰻",
+   "intMajor": 1002,
+   "intMinor": 12,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 44,
+   "strAreaName": "珊瑚礁之旅 - 礁壁的生物",
+   "intMajor": 1002,
+   "intMinor": 14,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 44,
+   "strAreaName": "珊瑚礁之旅 - 礁壁的生物",
+   "intMajor": 1002,
+   "intMinor": 13,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 44,
+   "strAreaName": "珊瑚礁之旅 - 礁壁的生物",
+   "intMajor": 1002,
+   "intMinor": 15,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 45,
+   "strAreaName": "沈船探幽",
+   "intMajor": 1002,
+   "intMinor": 16,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 46,
+   "strAreaName": "沈船探幽 - 附著生物",
+   "intMajor": 1002,
+   "intMinor": 17,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 47,
+   "strAreaName": "沈船探幽 - 空間利用",
+   "intMajor": 1002,
+   "intMinor": 18,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 47,
+   "strAreaName": "沈船探幽 - 空間利用",
+   "intMajor": 1002,
+   "intMinor": 19,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 48,
+   "strAreaName": "沈船探幽 - 船艙",
+   "intMajor": 1002,
+   "intMinor": 20,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 49,
+   "strAreaName": "沈船探幽 - 船長室",
+   "intMajor": 1002,
+   "intMinor": 21,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 50,
+   "strAreaName": "沈船探幽 - 表層甲板",
+   "intMajor": 1002,
+   "intMinor": 22,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 50,
+   "strAreaName": "沈船探幽 - 表層甲板",
+   "intMajor": 1002,
+   "intMinor": 23,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 50,
+   "strAreaName": "沈船探幽 - 表層甲板",
+   "intMajor": 1002,
+   "intMinor": 24,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 51,
+   "strAreaName": "珊瑚礁之旅 - 生物的共生",
+   "intMajor": 1002,
+   "intMinor": 25,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 52,
+   "strAreaName": "花園鰻",
+   "intMajor": 1002,
+   "intMinor": 26,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 52,
+   "strAreaName": "花園鰻",
+   "intMajor": 1002,
+   "intMinor": 27,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 53,
+   "strAreaName": "小白鯨",
+   "intMajor": 1002,
+   "intMinor": 28,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 53,
+   "strAreaName": "小白鯨",
+   "intMajor": 1002,
+   "intMinor": 29,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 53,
+   "strAreaName": "小白鯨",
+   "intMajor": 1002,
+   "intMinor": 31,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 2,
+   "strBuildingName": "珊瑚王國館",
+   "intAreaId": 53,
+   "strAreaName": "小白鯨",
+   "intMajor": 1002,
+   "intMinor": 30,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 54,
+   "strAreaName": "歡迎進入世界海洋館",
+   "intMajor": 1003,
+   "intMinor": 32,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 54,
+   "strAreaName": "歡迎進入世界海洋館",
+   "intMajor": 1003,
+   "intMinor": 35,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 54,
+   "strAreaName": "歡迎進入世界海洋館",
+   "intMajor": 1003,
+   "intMinor": 49,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 55,
+   "strAreaName": "古代海洋",
+   "intMajor": 1003,
+   "intMinor": 1,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 56,
+   "strAreaName": "古代海洋 - 海洋",
+   "intMajor": 1003,
+   "intMinor": 2,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 57,
+   "strAreaName": "古代海洋 - 水母",
+   "intMajor": 1003,
+   "intMinor": 3,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 58,
+   "strAreaName": "古代海洋 - 埃迪卡拉海",
+   "intMajor": 1003,
+   "intMinor": 5,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 59,
+   "strAreaName": "古代海洋 - 澄江生物群",
+   "intMajor": 1003,
+   "intMinor": 47,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 60,
+   "strAreaName": "古代海洋 - 寒武紀大滅絕",
+   "intMajor": 1003,
+   "intMinor": 6,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 61,
+   "strAreaName": "古代海洋 - 魚類王朝",
+   "intMajor": 1003,
+   "intMinor": 7,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 62,
+   "strAreaName": "古代海洋 - 二疊紀大滅絕",
+   "intMajor": 1003,
+   "intMinor": 48,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 63,
+   "strAreaName": "古代海洋 - 海中霸主",
+   "intMajor": 1003,
+   "intMinor": 8,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 64,
+   "strAreaName": "古代海洋 - 鯨類演化",
+   "intMajor": 1003,
+   "intMinor": 9,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 65,
+   "strAreaName": "中國鱟",
+   "intMajor": 1003,
+   "intMinor": 10,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 66,
+   "strAreaName": "卡式江魟",
+   "intMajor": 1003,
+   "intMinor": 11,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 67,
+   "strAreaName": "裸臀魚",
+   "intMajor": 1003,
+   "intMinor": 12,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 68,
+   "strAreaName": "鸚鵡螺",
+   "intMajor": 1003,
+   "intMinor": 18,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 69,
+   "strAreaName": "斑紋異齒鮫",
+   "intMajor": 1003,
+   "intMinor": 13,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 70,
+   "strAreaName": "拉氏多鰭魚",
+   "intMajor": 1003,
+   "intMinor": 14,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 71,
+   "strAreaName": "象魚",
+   "intMajor": 1003,
+   "intMinor": 15,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 72,
+   "strAreaName": "亞洲龍魚",
+   "intMajor": 1003,
+   "intMinor": 16,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 73,
+   "strAreaName": "長吻火箭魚",
+   "intMajor": 1003,
+   "intMinor": 17,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 74,
+   "strAreaName": "海藻森林 -  觀景窗",
+   "intMajor": 1003,
+   "intMinor": 19,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 74,
+   "strAreaName": "海藻森林 -  觀景窗",
+   "intMajor": 1003,
+   "intMinor": 20,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 75,
+   "strAreaName": "海藻森林 - 海豹",
+   "intMajor": 1003,
+   "intMinor": 31,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 75,
+   "strAreaName": "海藻森林 - 海豹",
+   "intMajor": 1003,
+   "intMinor": 30,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 76,
+   "strAreaName": "海藻森林 - 弧形坡道",
+   "intMajor": 1003,
+   "intMinor": 21,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 76,
+   "strAreaName": "海藻森林 - 弧形坡道",
+   "intMajor": 1003,
+   "intMinor": 22,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 76,
+   "strAreaName": "海藻森林 - 弧形坡道",
+   "intMajor": 1003,
+   "intMinor": 23,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 76,
+   "strAreaName": "海藻森林 - 弧形坡道",
+   "intMajor": 1003,
+   "intMinor": 24,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 76,
+   "strAreaName": "海藻森林 - 弧形坡道",
+   "intMajor": 1003,
+   "intMinor": 25,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 76,
+   "strAreaName": "海藻森林 - 弧形坡道",
+   "intMajor": 1003,
+   "intMinor": 26,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 77,
+   "strAreaName": "海藻森林 - 巨藻森林缸",
+   "intMajor": 1003,
+   "intMinor": 27,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 77,
+   "strAreaName": "海藻森林 - 巨藻森林缸",
+   "intMajor": 1003,
+   "intMinor": 28,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 77,
+   "strAreaName": "海藻森林 - 巨藻森林缸",
+   "intMajor": 1003,
+   "intMinor": 29,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 78,
+   "strAreaName": "深海水域 - 深海熱泉",
+   "intMajor": 1003,
+   "intMinor": 33,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 79,
+   "strAreaName": "深海水域 - 深海生物",
+   "intMajor": 1003,
+   "intMinor": 34,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 80,
+   "strAreaName": "深海水域 - 發光生物",
+   "intMajor": 1003,
+   "intMinor": 36,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 81,
+   "strAreaName": "深海水域 - 浮游生物",
+   "intMajor": 1003,
+   "intMinor": 37,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 82,
+   "strAreaName": "極地水域 - 極光",
+   "intMajor": 1003,
+   "intMinor": 38,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 83,
+   "strAreaName": "極地水域 - 北極",
+   "intMajor": 1003,
+   "intMinor": 39,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 84,
+   "strAreaName": "極地水域 - 南極",
+   "intMajor": 1003,
+   "intMinor": 40,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 85,
+   "strAreaName": "極地水域 - 企鵝",
+   "intMajor": 1003,
+   "intMinor": 41,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 85,
+   "strAreaName": "極地水域 - 企鵝",
+   "intMajor": 1003,
+   "intMinor": 42,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 86,
+   "strAreaName": "極地水域 - 海鸚鵡",
+   "intMajor": 1003,
+   "intMinor": 43,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 87,
+   "strAreaName": "特展 - 鯊魚",
+   "intMajor": 1003,
+   "intMinor": 44,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ },
+ {
+   "intBuildingId": 3,
+   "strBuildingName": "世界水域館",
+   "intAreaId": 87,
+   "strAreaName": "特展 - 鯊魚",
+   "intMajor": 1003,
+   "intMinor": 45,
+   "strUuid": "ACE895D7-3E3A-4557-8F89-0366A35BCB83"
+ }
+]
