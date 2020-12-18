@@ -23,11 +23,27 @@ public class DataCenter :Singleton<DataCenter> {
 	private string _jsonResourcePath = "json";
 	private string _creatureJsonResourcePath = "json/creature";
 	private string _thumbnailResourcePath = "thumbnail";
-	private string _jsonCachePath = Application.persistentDataPath + "/json";
-	private string _creatureJsonCachePath = Application.persistentDataPath + "/json/creature";
-	private string _thumbnailCachePath = Application.persistentDataPath + "/thumbnail";
+
+	// KID - 35 行 在 Awake 內呼叫
+	//private string _jsonCachePath = Application.persistentDataPath + "/json";
+	private string _jsonCachePath;
+	//private string _creatureJsonCachePath = Application.persistentDataPath + "/json/creature";
+	private string _creatureJsonCachePath;
+	//private string _thumbnailCachePath = Application.persistentDataPath + "/thumbnail";
+	private string _thumbnailCachePath;
+	// KID
+
 
 	private Dictionary<string, DataMission> _dataMissionQueue = new Dictionary<string, DataMission> ();
+
+	// KID
+	private void Awake()
+	{
+		_jsonCachePath = Application.persistentDataPath + "/json";
+		_creatureJsonCachePath = Application.persistentDataPath + "/json/creature";
+		_thumbnailCachePath = Application.persistentDataPath + "/thumbnail";
+	}
+	// KID
 
 	void Start() {
 		if (!System.IO.File.Exists (_jsonCachePath)) {
