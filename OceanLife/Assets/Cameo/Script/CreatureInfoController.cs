@@ -4,6 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Cameo;
 using LitJson;
+using UnityEngine.Networking;
 using UnityEngine.SceneManagement;
 
 public class CreatureInfoController : MonoBehaviour {
@@ -109,12 +110,12 @@ public class CreatureInfoController : MonoBehaviour {
 		ScreenOrientationHelper.SetOrientationFixed (ScreenOrientation.Portrait);
 
 		if (_webViewGameObject != null) {
-			var webView = _webViewGameObject.AddComponent<UniWebView>();
-			webView.OnLoadComplete -= OnLoadUrlComplete;
-			webView.InsetsForScreenOreitation -= InsetsForScreenOreitation;
-			webView.OnWebViewShouldClose -= WebView_OnWebViewShouldClose;
-			webView.Stop ();
-			webView.Hide ();
+			var webView = _webViewGameObject.AddComponent<WebViewObject>();
+			//webView.OnLoadComplete -= OnLoadUrlComplete;
+			//webView.InsetsForScreenOreitation -= InsetsForScreenOreitation;
+			//webView.OnWebViewShouldClose -= WebView_OnWebViewShouldClose;
+			//webView.Stop ();
+			//webView.Hide ();
 		}
 
 		TitlebarController.Instance.RemoveBackButtonClickCallback (OnBackClick);
@@ -306,21 +307,23 @@ public class CreatureInfoController : MonoBehaviour {
 			if (_webViewGameObject == null) {
 				_webViewGameObject = new GameObject ("WebView");
 			}
-			var webView = _webViewGameObject.AddComponent<UniWebView> ();
-			webView.OnLoadComplete += OnLoadUrlComplete;
-			webView.InsetsForScreenOreitation += InsetsForScreenOreitation;
-			webView.OnWebViewShouldClose += WebView_OnWebViewShouldClose;
-			webView.toolBarShow = true;
-			webView.zoomEnable = true;
-			webView.url = strUrl;
-			_loading.SetActive (true);
-			webView.Load ();
+			var webView = _webViewGameObject.AddComponent<WebViewObject> ();
+			//webView.OnLoadComplete += OnLoadUrlComplete;
+			//webView.InsetsForScreenOreitation += InsetsForScreenOreitation;
+			//webView.OnWebViewShouldClose += WebView_OnWebViewShouldClose;
+			//webView.toolBarShow = true;
+			//webView.zoomEnable = true;
+			//webView.url = strUrl;
+			_loading.SetActive(true);
+			//webView.Load ();
+
+			webView.CallOnStarted(strUrl);
 		} else {
 			Application.OpenURL (strUrl);
 		}
 	}
 
-	bool WebView_OnWebViewShouldClose (UniWebView webView)
+	bool WebView_OnWebViewShouldClose (WebViewObject webView)
 	{
 		Destroy (_webViewGameObject);
 		_webViewGameObject = null;
@@ -328,24 +331,24 @@ public class CreatureInfoController : MonoBehaviour {
 		return true;
 	}
 
-	void OnLoadUrlComplete(UniWebView webView, bool success, string errorMessage) {
+	void OnLoadUrlComplete(WebViewObject webView, bool success, string errorMessage) {
 		_loading.SetActive (false);
 		if (success) {
 			ScreenOrientationHelper.SetOrientationFixed (ScreenOrientation.Landscape);
 			//ScreenOrientationHelper.SetOrientationFree ();
-			webView.Show();
+			//webView.Show();
 		} else {
 			Debug.Log("Something wrong in webview loading: " + errorMessage);
 		}
 	}
 
-	UniWebViewEdgeInsets InsetsForScreenOreitation(UniWebView webView, UniWebViewOrientation orientation) {
-		if (orientation == UniWebViewOrientation.Portrait) {
-			return new UniWebViewEdgeInsets (0, 0, 0, 0);
-		} else {
-			return new UniWebViewEdgeInsets(0, 0, 0, 0);
-		}
-	}
+	//UniWebViewEdgeInsets InsetsForScreenOreitation(UniWebView webView, UniWebViewOrientation orientation) {
+	//	if (orientation == UniWebViewOrientation.Portrait) {
+	//		return new UniWebViewEdgeInsets (0, 0, 0, 0);
+	//	} else {
+	//		return new UniWebViewEdgeInsets(0, 0, 0, 0);
+	//	}
+	//}
 
 	void OpenMediaUrl() {
 		if (_strUrlAfterInvoke != "") {

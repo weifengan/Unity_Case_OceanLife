@@ -86,12 +86,12 @@ public class AreaInfoController : MonoBehaviour {
 		ScreenOrientationHelper.SetOrientationFixed (ScreenOrientation.Portrait);
 
 		if (_webViewGameObject != null) {
-			var webView = _webViewGameObject.AddComponent<UniWebView>();
-			webView.OnLoadComplete -= OnLoadUrlComplete;
-			webView.InsetsForScreenOreitation -= InsetsForScreenOreitation;
-			webView.OnWebViewShouldClose -= WebView_OnWebViewShouldClose;
-			webView.Stop ();
-			webView.Hide ();
+			var webView = _webViewGameObject.AddComponent<WebViewObject>();
+			//webView.OnLoadComplete -= OnLoadUrlComplete;
+			//webView.InsetsForScreenOreitation -= InsetsForScreenOreitation;
+			//webView.OnWebViewShouldClose -= WebView_OnWebViewShouldClose;
+			//webView.Stop ();
+			//webView.Hide ();
 		}
 
 		TitlebarController.Instance.RemoveBackButtonClickCallback (OnBackClick);
@@ -169,16 +169,19 @@ public class AreaInfoController : MonoBehaviour {
 			if (_webViewGameObject == null) {
 				_webViewGameObject = new GameObject ("WebView");
 			}
-			var webView = _webViewGameObject.AddComponent<UniWebView> ();
-			webView.OnLoadComplete += OnLoadUrlComplete;
-			webView.InsetsForScreenOreitation += InsetsForScreenOreitation;
-			webView.OnWebViewShouldClose += WebView_OnWebViewShouldClose;
-			webView.zoomEnable = true;
-			webView.toolBarShow = true;
-//			webView.url = _tourVideoQuestion.strVideoUrl;
-			webView.url = VedioPath;
+			var webView = _webViewGameObject.AddComponent<WebViewObject> ();
+			//webView.OnLoadComplete += OnLoadUrlComplete;
+			//webView.InsetsForScreenOreitation += InsetsForScreenOreitation;
+			//webView.OnWebViewShouldClose += WebView_OnWebViewShouldClose;
+			//webView.zoomEnable = true;
+			//webView.toolBarShow = true;
+			//webView.url = _tourVideoQuestion.strVideoUrl;
+			//webView.url = VedioPath;
+
+			webView.CallOnStarted(VedioPath);
+
 			_loading.SetActive (true);
-			webView.Load ();
+			//webView.Load ();
 		} 
 		else 
 		{
@@ -206,17 +209,19 @@ public class AreaInfoController : MonoBehaviour {
 			if (_webViewGameObject == null) {
 				_webViewGameObject = new GameObject ("WebView");
 			}
-			var webView = _webViewGameObject.AddComponent<UniWebView> ();
-			webView.OnLoadComplete += OnLoadUrlComplete;
-			webView.InsetsForScreenOreitation += InsetsForScreenOreitation;
-			webView.OnWebViewShouldClose += WebView_OnWebViewShouldClose;
-			webView.zoomEnable = true;
-			webView.toolBarShow = true;
+			var webView = _webViewGameObject.AddComponent<WebViewObject> ();
+			//webView.OnLoadComplete += OnLoadUrlComplete;
+			//webView.InsetsForScreenOreitation += InsetsForScreenOreitation;
+			//webView.OnWebViewShouldClose += WebView_OnWebViewShouldClose;
+			//webView.zoomEnable = true;
+			//webView.toolBarShow = true;
 			if (_tourVideoQuestion.strVideoUrl != "" && _tourVideoQuestion.strVideoUrl01 == null && _tourVideoQuestion.strVideoUrl02 == null) 
 			{
-				webView.url = _tourVideoQuestion.strVideoUrl;
+				//webView.url = _tourVideoQuestion.strVideoUrl;
+				webView.CallOnStarted(_tourVideoQuestion.strVideoUrl);
+
 				_loading.SetActive (true);
-				webView.Load ();
+				//webView.Load ();
 			}
 			else if(_tourVideoQuestion.strVideoUrl != "" && _tourVideoQuestion.strVideoUrl01 != null  && _tourVideoQuestion.strVideoUrl02 == null )
 			{
@@ -262,7 +267,7 @@ public class AreaInfoController : MonoBehaviour {
 		}
 	}
 
-	bool WebView_OnWebViewShouldClose (UniWebView webView)
+	bool WebView_OnWebViewShouldClose (WebViewObject webView)
 	{
 		ScreenOrientationHelper.SetOrientationFixed (ScreenOrientation.Portrait);
 		Destroy (_webViewGameObject);
@@ -270,25 +275,25 @@ public class AreaInfoController : MonoBehaviour {
 		return true;
 	}
 
-	void OnLoadUrlComplete(UniWebView webView, bool success, string errorMessage) {
+	void OnLoadUrlComplete(WebViewObject webView, bool success, string errorMessage) {
 		_loading.SetActive (false);
 		if (success) {
 			ScreenOrientationHelper.SetOrientationFixed (ScreenOrientation.Landscape);
 			//ScreenOrientationHelper.SetOrientationFree ();
-			webView.Show();
+			//webView.Show();
 		} else {
 			Debug.Log("Something wrong in webview loading: " + errorMessage);
 		}
 	}
 
-	UniWebViewEdgeInsets InsetsForScreenOreitation(UniWebView webView, UniWebViewOrientation orientation) {
+	//UniWebViewEdgeInsets InsetsForScreenOreitation(UniWebView webView, UniWebViewOrientation orientation) {
 
-		if (orientation == UniWebViewOrientation.Portrait) {
-			return new UniWebViewEdgeInsets (0, 0, 0, 0);
-		} else {
-			return new UniWebViewEdgeInsets(0, 0, 0, 0);
-		}
-	}
+	//	if (orientation == UniWebViewOrientation.Portrait) {
+	//		return new UniWebViewEdgeInsets (0, 0, 0, 0);
+	//	} else {
+	//		return new UniWebViewEdgeInsets(0, 0, 0, 0);
+	//	}
+	//}
 
 	public void ViewAnswer() {
 		MessageBoxManager.Instance.BackgroundColor = new Color (0, 0, 0, 0.8f);
