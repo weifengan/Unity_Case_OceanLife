@@ -10,14 +10,14 @@ public class LoadAndSaveThumbnail : MonoBehaviour {
 //	private string strJsonLstDicAreaUrl = "http://210.65.11.236/JsonData/jsonLstDicArea.json";
 //	private string strJsonDicAreaInfoUrl = "http://210.65.11.236/JsonData/jsonDicAreaInfo.json";
 //	private string strJsonLstDicFunnyQuestionUrl = "http://210.65.11.236/JsonData/jsonLstDicFunnyQuestion.json";
-//	private string strJsonLstDicCreatureUrl = "http://210.65.11.236/JsonData/jsonLstDicCreature.json";
+	private string strJsonLstDicCreatureUrl = "http://210.65.11.236/JsonData/jsonLstDicCreature.json";
 //	private string strJsonCreatureInfoPrefix = "http://210.65.11.236/JsonData/creature/";
 
 	private string strJsonBeaconsUrl = "http://nmmba.tapmovie.com/JsonData/jsonBeacons.json";
 	private string strJsonLstDicAreaUrl = "http://nmmba.tapmovie.com/JsonData/jsonLstDicArea.json";
 	private string strJsonDicAreaInfoUrl = "http://nmmba.tapmovie.com/JsonData/jsonDicAreaInfo.json";
 	private string strJsonLstDicFunnyQuestionUrl = "http://nmmba.tapmovie.com/JsonData/jsonLstDicFunnyQuestion.json";
-	private string strJsonLstDicCreatureUrl = "http://nmmba.tapmovie.com/JsonData/jsonLstDicCreature.json";
+//	private string strJsonLstDicCreatureUrl = "http://nmmba.tapmovie.com/JsonData/jsonLstDicCreature.json";
 	private string strJsonCreatureInfoPrefix = "http://nmmba.tapmovie.com/JsonData/creature/";
 
 	private string _jsonCachePath = "";

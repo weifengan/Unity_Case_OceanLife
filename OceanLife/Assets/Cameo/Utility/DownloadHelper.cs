@@ -85,6 +85,7 @@ public class DownloadHelper : Singleton<DownloadHelper> {
 	}
 
 	IEnumerator DownloadImageData(string strUrl, System.Action<DownloadResult> callBack, Dictionary<string, object> dicParams) {
+		/*
 		intCount++;
 		//Texture2D texture = new Texture2D ();
 
@@ -107,6 +108,9 @@ public class DownloadHelper : Singleton<DownloadHelper> {
 
 		intCount--;
 		callBack (result);
+		*/
+
+		yield return null;
 	}
 
 }
